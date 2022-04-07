@@ -43,7 +43,6 @@ namespace CalcoliGeometrici
         //METODO PER STAMPARE LE VARIE MISURE DEL RETTANGOLO E IL DISEGNO
         public void StampaRettangolo()
         {
-            Console.WriteLine("----------RETTANGOLO----------");
             Console.WriteLine("Base: " + baseRettangolo + "cm");
             Console.WriteLine("Altezza: " + altezzaRettangolo + "cm");
             Console.WriteLine("Perimetro: " + areaRettangolo + "cm");
